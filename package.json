@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "babel script.js --watch --out-file script-compiled.js"
+    "start": "node script.js"
   },
   "author": "",
   "license": "ISC",
